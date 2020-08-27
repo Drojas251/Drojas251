@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Robotics enthusist with a passion for autonomous systems. I am current a masters student UC Davis working on robotic systems for missions of deep space exploration. 
+
+## Follow me around the wed ! 
+
+- Linkedin:  www.linkedin.com/in/diegorojas10
