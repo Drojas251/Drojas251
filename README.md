@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Robotics enthusiast with a passion for autonomous systems. I am currently a masters student UC Davis working on robotic systems for missions of deep space exploration. 
+I am a Robotics enthusiast with a passion for autonomous systems. I am currently a masters student at UC Davis working on robotic systems for missions of deep space exploration. 
 
 ## Follow me around the wed ! 
 
 - Linkedin:  www.linkedin.com/in/diegorojas10
+- HOME: https://homestri.ucdavis.edu/people/diego-rojas
