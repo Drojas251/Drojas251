@@ -51,7 +51,6 @@ Github Link: https://github.com/Drojas251/ur5_manipulation_gazebo_ros
    
 ### Dual UR5 in the International Space Station
  Github Link: 
-   https://github.com/mounesi/RT4_packaging
    https://github.com/mounesi/RT4_simulation
  
   <p align="center">
