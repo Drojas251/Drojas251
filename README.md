@@ -42,4 +42,4 @@ Github Link: https://github.com/Drojas251/wire_manipulation
 Github Link: https://github.com/Drojas251/mae252_autonomous_robotics
   
 <p align="center">
-<img src="https://github.com/Drojas251/Drojas251/blob/master/media/autonomous_navigation.gif" width="400">
+<img src="https://github.com/Drojas251/Drojas251/blob/master/media/autonomous_navigation.gif" width="600">
