@@ -31,3 +31,5 @@ I love making new connections and learning from others, so feel free to reach ou
 
 -->
 <img src="https://github.com/Drojas251/Drojas251/blob/master/media/wire_manip.gif" width="300">
+
+<img src="https://github.com/Drojas251/Drojas251/blob/master/media/autonomous_navigation.gif" width="300">
