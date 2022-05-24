@@ -32,13 +32,13 @@ I love making new connections and learning from others, so feel free to reach ou
 -->
 ## PROJECTS
 
-# Dual Arm Wire Manipulation
+### Dual Arm Wire Manipulation
 Github Link: https://github.com/Drojas251/wire_manipulation
 
 <p align="center">
 <img src="https://github.com/Drojas251/Drojas251/blob/master/media/wire_manip.gif" width="300">
 
-# Autonomous Navigation Through Wires
+### Autonomous Navigation Through Wires
 Github Link: https://github.com/Drojas251/mae252_autonomous_robotics
   
 <p align="center">
