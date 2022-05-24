@@ -30,6 +30,16 @@ I love making new connections and learning from others, so feel free to reach ou
 <img src="https://github.com/Drojas251/Agriculture-Mobile-Robot-Simulation-/blob/master/media/ag_robot.gif" width="400">
 
 -->
+## PROJECTS
+
+# Dual Arm Wire Manipulation
+Github Link: https://github.com/Drojas251/wire_manipulation
+
+<p align="center">
 <img src="https://github.com/Drojas251/Drojas251/blob/master/media/wire_manip.gif" width="300">
 
-<img src="https://github.com/Drojas251/Drojas251/blob/master/media/autonomous_navigation.gif" width="300">
+# Autonomous Navigation Through Wires
+Github Link: https://github.com/Drojas251/mae252_autonomous_robotics
+  
+<p align="center">
+<img src="https://github.com/Drojas251/Drojas251/blob/master/media/autonomous_navigation.gif" width="400">
