@@ -34,24 +34,27 @@ I love making new connections and learning from others, so feel free to reach ou
 
 ### Dual Arm Wire Manipulation
 Github Link: https://github.com/Drojas251/wire_manipulation
+Software/Libraries: ROS, Moveit, OpenCV,Flexible Collision Library, Scikit-Learn
 
 <p align="center">
 <img src="https://github.com/Drojas251/Drojas251/blob/master/media/wire_manip.gif" width="300">
 
 ### Autonomous Navigation Through Wires
 Github Link: https://github.com/Drojas251/mae252_autonomous_robotics
+Software/Libraries: ROS, Gazebo, Point Cloud Library
   
 <p align="center">
 <img src="https://github.com/Drojas251/Drojas251/blob/master/media/autonomous_navigation.gif" width="600">
   
 ### UR5 + Linear Track Manipulation 
 Github Link: https://github.com/Drojas251/ur5_manipulation_gazebo_ros
+Software/Libraries: ROS, Gazebo, Moveit
  <p align="center">
  <img src="https://github.com/Drojas251/Drojas251/blob/master/media/ur5_gantry.gif" width="600">
    
 ### Dual UR5 in the International Space Station
- Github Link: 
-   https://github.com/mounesi/RT4_simulation
+ Github Link: https://github.com/mounesi/RT4_simulation
+ Software/Libraries: ROS, Gazebo, Moveit
  
   <p align="center">
  <img src="https://github.com/Drojas251/Drojas251/blob/master/media/dual_ur5_in_ISS.png" width="600">
