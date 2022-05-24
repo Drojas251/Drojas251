@@ -44,7 +44,16 @@ Github Link: https://github.com/Drojas251/mae252_autonomous_robotics
 <p align="center">
 <img src="https://github.com/Drojas251/Drojas251/blob/master/media/autonomous_navigation.gif" width="600">
   
- ### UR5 + Linear Track Manipulation 
- Github Link: https://github.com/Drojas251/ur5_manipulation_gazebo_ros
+### UR5 + Linear Track Manipulation 
+Github Link: https://github.com/Drojas251/ur5_manipulation_gazebo_ros
  <p align="center">
  <img src="https://github.com/Drojas251/Drojas251/blob/master/media/ur5_gantry.gif" width="600">
+   
+### Dual UR5 in the International Space Station
+ Github Link: 
+   https://github.com/mounesi/RT4_packaging
+   https://github.com/mounesi/RT4_simulation
+ 
+  <p align="center">
+ <img src="https://github.com/Drojas251/Drojas251/blob/master/media/dual_ur5_in_ISS.png" width="600">
+   
