@@ -24,6 +24,9 @@ I love making new connections and learning from others, so feel free to reach ou
 - Linkedin:  www.linkedin.com/in/diegorojas10
 - HOME: https://homestri.ucdavis.edu/people/diego-rojas
 
+<!--
 ## Projects 
 <p align="center">
 <img src="https://github.com/Drojas251/Agriculture-Mobile-Robot-Simulation-/blob/master/media/ag_robot.gif" width="400">
+
+-->
