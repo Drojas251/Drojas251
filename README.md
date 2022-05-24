@@ -43,3 +43,8 @@ Github Link: https://github.com/Drojas251/mae252_autonomous_robotics
   
 <p align="center">
 <img src="https://github.com/Drojas251/Drojas251/blob/master/media/autonomous_navigation.gif" width="600">
+  
+ ### UR5 + Linear Track Manipulation 
+ Github Link: https://github.com/Drojas251/ur5_manipulation_gazebo_ros
+ <p align="center">
+ <img src="https://github.com/Drojas251/Drojas251/blob/master/media/ur5_gantry.gif" width="600">
