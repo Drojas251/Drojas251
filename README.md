@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Robotics enthusiast with a passion for autonomous systems. I am currently a masters student at UC Davis working on robotic systems for missions of deep space exploration. In additon, I am an entrepreneur in the process of developing software applications for a variety of industries. More work updates on that soon to come! 
+I am a Robotics enthusiast with a passion for autonomous systems! I am currently a Robotics Engineer at Blue Origin working on Space Robotics, and a current graduate student at UC Davis working on robotic systems for missions of deep space exploration. 
 
 I love making new connections and learning from others, so feel free to reach out! 
 
@@ -35,7 +35,7 @@ I love making new connections and learning from others, so feel free to reach ou
 ### Dual Arm Wire Manipulation
 Github Link: https://github.com/Drojas251/wire_manipulation
 
-Software/Libraries: ROS, Moveit, OpenCV,Flexible Collision Library, Scikit-Learn
+Software/Libraries: ROS, Moveit, OpenCV, Flexible Collision Library, Scikit-Learn
 
 <p align="center">
 <img src="https://github.com/Drojas251/Drojas251/blob/master/media/wire_manip.gif" width="300">
