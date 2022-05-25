@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Robotics enthusiast with a passion for autonomous systems! I am currently a Robotics Engineer at Blue Origin working on Space Robotics, and a current graduate student at UC Davis working on robotic systems for missions of deep space exploration. 
-
-I love making new connections and learning from others, so feel free to reach out! 
+I am a Robotics enthusiast with a passion for autonomous systems! I am currently a Robotics Engineer at Blue Origin working on Space Robotics, and a current graduate student at UC Davis working on robotic systems for missions of deep space exploration. I love making new connections and learning from others, so feel free to reach out! 
 
 ## Follow me around the web ! 
 
