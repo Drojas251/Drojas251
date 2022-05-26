@@ -54,7 +54,7 @@ Software/Libraries: ROS, Gazebo, Moveit
  <img src="https://github.com/Drojas251/Drojas251/blob/master/media/ur5_gantry.gif" width="600">
    
 ### Dual UR5 in the International Space Station
- Github Link: https://github.com/Drojas251/RT4_simulation
+ Github Link: Currently Private
    
  Software/Libraries: ROS, Gazebo, Moveit
  
