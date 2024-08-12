@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Robotics enthusiast with a passion for autonomous systems! I am currently a Robotics Engineer at Blue Origin working on Space Robotics, and a current graduate student at UC Davis working on robotic systems for missions of deep space exploration. I love making new connections and learning from others, so feel free to reach out! 
+I am a Robotics enthusiast with a passion for autonomous systems! I am currently a Robotics Engineer at advanced.farm working on apple picking robots, and previously a robotics engineer at Blue Origin working on space robotics. I love making new connections and learning from others, so feel free to reach out! 
 
 ## Follow me around the web ! 
 
@@ -37,6 +37,12 @@ Software/Libraries: ROS, Moveit, OpenCV, Flexible Collision Library, Scikit-Lear
 
 <p align="center">
 <img src="https://github.com/Drojas251/Drojas251/blob/master/media/wire_manip.gif" width="300">
+
+### Robotica
+Github Link: [https://github.com/Drojas251/robotica](https://github.com/Drojas251/robotica)
+
+Software/Libraries: Tkinter, Pyzmq, MatplotLib, Flexible Collision Library
+![image](https://github.com/user-attachments/assets/35ccc736-78c5-4f9c-a5ab-40be0d2de99a)
 
 ### Autonomous Navigation Through Wires
 Github Link: https://github.com/Drojas251/mae252_autonomous_robotics
