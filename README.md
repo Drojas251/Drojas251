@@ -38,7 +38,7 @@ Software/Libraries: ROS, Moveit, OpenCV, Flexible Collision Library, Scikit-Lear
 <p align="center">
 <img src="https://github.com/Drojas251/Drojas251/blob/master/media/wire_manip.gif" width="300">
 
-### Robotica
+### Robotica: Simplify Learning Robotics
 Github Link: [https://github.com/Drojas251/robotica](https://github.com/Drojas251/robotica)
 
 Software/Libraries: Tkinter, Pyzmq, MatplotLib, Flexible Collision Library
