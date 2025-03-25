@@ -44,6 +44,14 @@ Github Link: [https://github.com/Drojas251/robotica](https://github.com/Drojas25
 Software/Libraries: Tkinter, Pyzmq, MatplotLib, Flexible Collision Library
 ![image](https://github.com/user-attachments/assets/35ccc736-78c5-4f9c-a5ab-40be0d2de99a)
 
+### ROS Manipulation Stack
+Github Link: [https://github.com/Drojas251/ros1_manipulation](https://github.com/Drojas251/ros1_manipulation)
+
+Software/Libraries: ROS, Moveit, TensorFlow, BehaviorTrees
+
+<p align="center">
+<img src="https://github.com/Drojas251/ros1_manipulation/blob/main/media/bt.gif" width="600">
+
 ### Autonomous Navigation Through Wires
 Github Link: https://github.com/Drojas251/mae252_autonomous_robotics
   
