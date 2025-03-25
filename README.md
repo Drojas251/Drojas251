@@ -50,7 +50,7 @@ Github Link: [https://github.com/Drojas251/ros1_manipulation](https://github.com
 Software/Libraries: ROS, Moveit, TensorFlow, BehaviorTrees
 
 <p align="center">
-<img src="https://github.com/Drojas251/ros1_manipulation/blob/main/media/bt.gif" width="600">
+<img src="https://github.com/Drojas251/ros1_manipulation/blob/main/media/ai_full_demo.gif" width="600">
 
 ### Autonomous Navigation Through Wires
 Github Link: https://github.com/Drojas251/mae252_autonomous_robotics
